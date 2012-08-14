@@ -2,6 +2,7 @@
   "carbonHost":   "localhost",
   "carbonPort":   2003,
   "scriptPath":   "/full/path/to/scripts/dir",
+  "namespace":    "servers",
   "fqdn":         "fqdn.of.this.server",
   "sampleInterval": 10,
   "sendEach": 6,
